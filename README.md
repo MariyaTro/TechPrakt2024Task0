@@ -20,9 +20,9 @@
 - [x] git status
 - [x] git add
 - [x] git commit
-- [] git remote add
+- [ ] git remote add
 - [x] git push
-- [] git pull
-- [] git branch
+- [ ] git pull
+- [ ] git branch
 
 Виконала: Трофімова Марія Олександрівна
