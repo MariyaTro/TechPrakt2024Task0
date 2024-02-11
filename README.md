@@ -14,14 +14,16 @@
 - зроблено коміти у локальному репозиторії
 - вивантажено усі коміти з локального у віддалений репозиторій
 - Використані команди Git
+ 
 У практичній роботі №1 було використано такі команди Git:
- git init
- git status
- git add
- git commit
- git remote add
- git push
- git pull
- git branch
+- git init
+- git status
+- git add
+- git commit
+- git remote add
+- git push
+- git pull
+- git branch
+- 
 Виконала: Трофімова Марія Олександрівна
 
